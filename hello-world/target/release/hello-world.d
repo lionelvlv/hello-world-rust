@@ -1,0 +1,1 @@
+C:\Users\ionbl\Documents\projects\rust\hello-world\hello-world-rust\hello-world\target\release\hello-world.exe: C:\Users\ionbl\Documents\projects\rust\hello-world\hello-world-rust\hello-world\src\main.rs
